@@ -4,7 +4,7 @@ Config = {}
 Config.Object = {
     [1] = {
         coord = vector3(), ---الاحداثيات
-        heading = -185.0,  --- الهيتنق
+        heading = ,        --- الهيتنق
         object = "",       ---كود الابجكت
     },
     [2] = {
