@@ -1,1 +1,1 @@
-# Object-Ped_Spawner-
+Script By : dis r7_a 
